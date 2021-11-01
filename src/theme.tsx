@@ -10,6 +10,8 @@ const breakpoints = createBreakpoints({
   xl: '80em',
 })
 
+const textAlign = 'center'
+
 const theme = extendTheme({
   colors: {
     black: '#16161D',
